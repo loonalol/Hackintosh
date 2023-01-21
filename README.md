@@ -12,7 +12,7 @@ DRM in apple music,
 DRM in AppleTV+,
 SLEEP MODE REQUIRES REBOOT
 ---------------------------
-#
+``
 
 Insatlation Windows:
 
@@ -38,6 +38,6 @@ This will take some time, however once you're finished you should get either Bas
 Copy and paste the com.apple.recovery.boot to your USB
 
 Download the EFI
-
+``
 
 
