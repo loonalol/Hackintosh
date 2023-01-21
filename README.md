@@ -42,4 +42,4 @@ Copy and paste the com.apple.recovery.boot to your USB
 Download the EFI
 
 
-``
+
