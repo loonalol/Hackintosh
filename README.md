@@ -23,14 +23,14 @@ Download https://github.com/acidanthera/OpenCorePkg/releases  (opens new window)
 ![image](https://user-images.githubusercontent.com/85907829/213874839-82df2927-fa00-44ab-a892-ad92232e862f.png)
 Now run one of the following depending on what version of macOS you want(Note these scripts rely on Python 3 (opens new window) support, please install if you haven't already):
 
-``
-# Monterey (12)
+
+Monterey (12)
 python3 macrecovery.py -b Mac-FFE5EF870D7BA81A -m 00000000000000000 download
 
-# Latest version
-# ie. Ventura (13)
+Latest version
+ie. Ventura (13)
 python3 macrecovery.py -b Mac-4B682C642B45593E -m 00000000000000000 download
-``
+
 
 This will take some time, however once you're finished you should get either BaseSystem or RecoveryImage files:
 ![image](https://user-images.githubusercontent.com/85907829/213874901-e087e7dc-b352-4bd3-9034-ea7323f9e5d3.png)
