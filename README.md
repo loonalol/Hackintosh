@@ -2,7 +2,7 @@
 ASUS TUF X570-PLUS, (WIFI) RYZEN 9 5900X, RX 6600, Hackintosh EFI
 
 
-Things that work
+Things that work (Ventura)
 ------------------
 Everything
 ------------------
@@ -38,8 +38,6 @@ This will take some time, however once you're finished you should get either Bas
 ![image](https://user-images.githubusercontent.com/85907829/213874901-e087e7dc-b352-4bd3-9034-ea7323f9e5d3.png)
 
 Copy and paste the com.apple.recovery.boot to your USB
-
-Download the EFI
 
 [Download the EFI (Ventura)](https://github.com/bnunowo/Hackintosh/tree/ventura)
 
