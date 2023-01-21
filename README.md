@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/85907829/213875763-0eb23d02-b09b-49e4-a44f-ff8fa5e9fb12.png)
+
+
 
 ASUS TUF X570-PLUS, (WIFI) RYZEN 9 5900X, RX 6600, Hackintosh EFI
 
