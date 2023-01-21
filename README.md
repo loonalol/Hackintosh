@@ -1,6 +1,7 @@
-ASUS TUF X570-PLUS, (WIFI) RYZEN 9 5900X, RX 6600, Hackintosh EFI
-
 ``
+#ASUS TUF X570-PLUS, (WIFI) RYZEN 9 5900X, RX 6600, Hackintosh EFI
+
+
 Things that work
 ------------------
 Everything
@@ -12,7 +13,7 @@ DRM in apple music,
 DRM in AppleTV+,
 SLEEP MODE REQUIRES REBOOT
 ---------------------------
-``
+
 
 Insatlation Windows:
 
@@ -39,6 +40,6 @@ This will take some time, however once you're finished you should get either Bas
 Copy and paste the com.apple.recovery.boot to your USB
 
 Download the EFI
+
+
 ``
-
-
