@@ -5,7 +5,7 @@ ASUS TUF X570-PLUS, (WIFI) RYZEN 9 5900X, RX 6600, Hackintosh EFI
 Things that work
 ------------------
 Everything
--------------------
+------------------
 Things that don't work
 ------------------------
 DRM in safari, 
