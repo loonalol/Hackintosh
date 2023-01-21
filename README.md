@@ -17,6 +17,7 @@ SLEEP MODE REQUIRES REBOOT
 Insatlation Windows:
 
 Format your USB via rufus
+
 ![image](https://user-images.githubusercontent.com/85907829/213874618-554025e6-a5a6-4d16-86f8-64bfa3d2a93e.png)
 
 Download https://github.com/acidanthera/OpenCorePkg/releases  (opens new window) and head to /Utilities/macrecovery/. Next, click next to the current folder path and type cmd to open a Command Prompt in the current directory:
