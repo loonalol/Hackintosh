@@ -9,9 +9,9 @@ Everything
 ------------------
 Things that don't work
 ------------------------
-DRM in safari, 
-DRM in apple music,
-DRM in AppleTV+,
+DRM in safari,
+Apple music,
+AppleTV+,
 SLEEP MODE REQUIRES REBOOT
 ---------------------------
 
