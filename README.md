@@ -41,6 +41,6 @@ Copy and paste the com.apple.recovery.boot to your USB
 
 Download the EFI
 
-[![Download the EFI](https://github.com/bnunowo/Hackintosh/tree/ventura)
+[Download the EFI (Ventura)](https://github.com/bnunowo/Hackintosh/tree/ventura)
 
 
