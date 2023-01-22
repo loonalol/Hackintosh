@@ -40,7 +40,7 @@ This will take some time, however once you're finished you should get either Bas
 
 Copy and paste the com.apple.recovery.boot to your USB
 
-[Download the EFI (Ventura)](https://github.com/bnunowo/Hackintosh/tree/ventura)
+[Download the EFI (Ventura/Unstable)](https://github.com/bnunowo/Hackintosh/tree/ventura)
 
 ------------------------------------
 Disable
