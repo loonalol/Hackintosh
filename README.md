@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/85907829/213875902-b6f091a8-61c4-40ab-982f-45621d817f4a.png)
 
-[Montery/Stable](https://github.com/bnunowo/Hackintosh/tree/Monterey)
+[Montery/Stable](https://github.com/bnunowo/Hackintosh/tree/monterey)
 ![Screen Shot 2023-01-23 at 8 32 20 PM](https://user-images.githubusercontent.com/85907829/214200870-0b318fd6-9fb8-496b-915d-c97920ce3519.png)
 
 ASUS TUF X570-PLUS, (WIFI) RYZEN 9 5900X, RX 6600, Hackintosh EFI
