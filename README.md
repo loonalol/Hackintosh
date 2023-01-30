@@ -55,15 +55,6 @@ Copy and paste the com.apple.recovery.boot to your USB
 [Download the EFI (Ventura/Unstable)](https://github.com/bnunowo/Hackintosh/tree/ventura)
 
 ------------------------------------
-Disable
-Fast Boot
-Secure Boot
-Serial/COM Port
-Parallel Port
-Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
-IOMMU
-Special note for 3990X users: macOS currently does not support more than 64 threads in the kernel, and so will kernel panic if it sees more. The 3990X CPU has 128 threads total and so requires half of that disabled. We recommend disabling hyper threading in the BIOS for these situations.
-
 BIOS Settings:
 4G Decoding - Disabled (PCIE Passthrough moment)
 Fast Boot - Enabled
