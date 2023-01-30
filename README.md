@@ -56,12 +56,20 @@ Copy and paste the com.apple.recovery.boot to your USB
 
 ------------------------------------
 BIOS Settings:
-4G Decoding - Disabled (PCIE Passthrough moment)
+-------------------------------
+4G Decoding  - Disabled (PCIE Passthrough moment)
+-------------------------
 Fast Boot - Enabled
+-------------------------
 Secure Boot - Other OS
+-------------------------
 Serial/COM Port - Disabled
+--------------------------
 Compatibility Support Module (CSM) - Disabled
+--------------------------
 IOMMU - Auto
+-------------
 EHCI/XHCI Hand-off - Enabled
+----------------------------
 SATA Mode: AHCI - Enabled
 -------------------------------------
