@@ -64,3 +64,4 @@ Compatibility Support Module (CSM) - Disabled
 IOMMU - Auto
 EHCI/XHCI Hand-off - Enabled
 SATA Mode: AHCI - Enabled
+-------------------------------------
